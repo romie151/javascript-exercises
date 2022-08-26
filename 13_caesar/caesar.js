@@ -36,9 +36,7 @@ const caesar = function(str, num) {
         }
     }
     return cypher.join('')
-    // console.log(cypher.join(''))
 };
 
-caesar("Z", 1)
 // Do not edit below this line
 module.exports = caesar;
